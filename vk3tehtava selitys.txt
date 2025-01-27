@@ -1,0 +1,3 @@
+Gittini sekosi viikon 3 kohdalla ja poisti kansiosta tiedostot, tehtävän 
+kyllä tein missä oli chef ja italianchef qt tiedostot mutta ne on kadonnut. 
+koitan palauttaa niitä
