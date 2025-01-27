@@ -1,1 +1,0 @@
-# Olio-ohjelmointi2025
